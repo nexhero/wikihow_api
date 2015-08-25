@@ -1,0 +1,10 @@
+{
+    "require": {
+        "paquettg/php-html-parser": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Howapi\\Resources\\": "howapi\\resources"
+        }
+    }
+}
